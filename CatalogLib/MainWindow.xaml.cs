@@ -24,5 +24,9 @@ namespace CatalogLib
         {
             InitializeComponent();
         }
+
+        private void btBook_Click(object sender, RoutedEventArgs e)
+        {
+        }
     }
 }
